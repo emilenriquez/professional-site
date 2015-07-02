@@ -1,0 +1,28 @@
+= @team_name
+%table.uk-table
+  %caption
+    =t(:games)
+  %thead
+    %tr
+      %th
+        TITLE
+      %th
+        SHORT TITLE
+      %TH
+        DESCRIPTION 
+  - @gs.each do |g|
+    %tbody
+      %tr
+        %td
+          = g.title
+        %td
+          = g.short_title
+        %td
+          = g.description
+        %td
+          = g.id
+        %td
+          = link_to 'edit', '/games/edit/' + g.id.to_s
+  %tfoot
+    %tr
+      %td lorem ipsu m dolor itset lasl 

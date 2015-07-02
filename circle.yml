@@ -1,0 +1,52 @@
+
+machine:
+  ruby:
+    #version: 2.1.2
+    version: 2.1.4
+    #version: 2.1.2-railsexpress
+
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: game-bbs
+  #jp branches
+  # master:
+  #   branch: master
+  #   commands:      
+  #     #- sh script/deploy_dev.sh
+
+  # staging:
+  #   branch: staging 
+  #   commands:
+      #- sh script/deploy_staging.sh
+      #- cap staging start_unicorn
+
+  # production:
+  #   branch: production 
+  #   commands:
+  #     #- cap production deploy
+  #     #- sh script/deploy_production.sh
+  #     #- cap production start_unicorn
+
+  # #en branches
+  # com_staging:
+  #   branch: com_staging
+  #   commands:
+  #     #- sh script/deploy_com_staging.sh
+
+  # com_production:
+  #   branch: com_production
+  #   commands:
+  #     #- sh script/deploy_com_production.sh
+
+  # #personal branches    
+  # rakd:
+  #   branch: topic
+  #   commands:
+  #     #- sh script/deploy_rakd.sh
+
+  # emil:
+  #   branch: emil
+  #   commands:
+  #     #- sh script/deploy_shma.sh

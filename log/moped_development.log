@@ -1,0 +1,4 @@
+# Logfile created on 2015-07-02 13:32:27 +0800 by logger.rb/44203
+D, [2015-07-02T13:32:27.434569 #8003] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 11.3260ms
+D, [2015-07-02T13:37:29.080887 #8085] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 0.9580ms
+D, [2015-07-02T15:23:01.209009 #9106] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 0.8990ms

@@ -1,0 +1,24 @@
+-# 
+  field :title, type: String
+  field :short_title, type: String
+  field :description , type: String
+  field :slug, type: String
+= form_for(@game, :html=> {:multipart => true, :class => "uk-form uk-form-stacked"},:url => {:controller=>'games', :action => 'game_create' }) do |f|
+  .uk-form-row
+    = f.label :title, :class => 'uk-form-label'
+    .uk-form-controls
+      = f.text_field  :title, :placeholder => "title"
+  .uk-form-row
+    = f.label :short_title, :class => 'uk-form-label'
+    .uk-form-controls
+      = f.text_field  :short_title, :placeholder => "short_title"
+  .uk-form-row
+    = f.label :description, :class => 'uk-form-label'
+    .uk-form-controls
+      = f.text_field  :description, :placeholder => "description"
+  
+  .uk-form-row
+    = f.submit 'Save'
+
+
+
