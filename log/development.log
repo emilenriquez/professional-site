@@ -11405,3 +11405,2039 @@ Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-02 16:31:03
 
 
 Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-02 16:31:03 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:17:28 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (1.3ms)
+  Rendered layouts/_navbar.html.haml (13.4ms)
+Completed 200 OK in 778ms (Views: 768.4ms)
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/uikit.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/core.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/alert.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/button.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/cover.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/grid.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/modal.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/nav.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/offcanvas.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/scrollspy.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/smooth-scroll.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/switcher.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/tab.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/toggle.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/touch.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/core/utility.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/accordion.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/autocomplete.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/form-password.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/form-select.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/htmleditor.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/grid.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/lightbox.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/notify.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/nestable.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/pagination.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/parallax.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/search.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/slider.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/slideset.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/slideshow-fx.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/slideshow.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/sortable.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/sticky.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/timepicker.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/tooltip.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit/components/upload.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/uikit.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:17:29 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:25:53 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (1.6ms)
+Completed 200 OK in 209ms (Views: 208.8ms)
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/uikit/uikit.self.js?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/uikit/core/core.self.js?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/uikit/core/alert.self.js?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/uikit/core/button.self.js?body=1" for ::1 at 2015-07-06 20:25:53 +0800
+
+
+Started GET "/assets/uikit/core/cover.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/grid.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/modal.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/nav.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/offcanvas.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/scrollspy.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/smooth-scroll.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/switcher.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/tab.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/toggle.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/touch.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/core/utility.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/accordion.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/autocomplete.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/form-password.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/form-select.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/grid.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/htmleditor.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/lightbox.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/notify.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/nestable.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/pagination.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/parallax.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/search.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/slider.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/slideset.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/slideshow-fx.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/slideshow.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/sortable.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/sticky.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/tooltip.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/timepicker.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit/components/upload.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/uikit.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/js/base.min.js" for ::1 at 2015-07-06 20:25:54 +0800
+
+ActionController::RoutingError (No route matches [GET] "/js/base.min.js"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (15.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (32.2ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:25:54 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (20.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (13.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (28.0ms)
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:25:54 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (17.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (33.8ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:25:54 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:26:18 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (0.1ms)
+Completed 200 OK in 162ms (Views: 161.1ms)
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/js/base.min.js" for ::1 at 2015-07-06 20:26:18 +0800
+
+ActionController::RoutingError (No route matches [GET] "/js/base.min.js"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (20.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (14.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (28.9ms)
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:26:18 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (12.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (28.6ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:26:18 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (12.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (27.0ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:26:18 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:26:34 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (0.1ms)
+Completed 200 OK in 144ms (Views: 143.7ms)
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/js/base.min.js" for ::1 at 2015-07-06 20:26:34 +0800
+
+ActionController::RoutingError (No route matches [GET] "/js/base.min.js"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (12.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (14.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (28.6ms)
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:26:34 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (14.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (30.1ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:26:34 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (16.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (34.5ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:26:34 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:26:42 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (0.1ms)
+Completed 200 OK in 79ms (Views: 78.5ms)
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:26:42 +0800
+
+
+Started GET "/js/base.min.js" for ::1 at 2015-07-06 20:26:42 +0800
+
+ActionController::RoutingError (No route matches [GET] "/js/base.min.js"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (25.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (14.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (30.7ms)
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:26:43 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (20.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (12.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (27.5ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:26:43 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (17.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (32.9ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:26:43 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:26:43 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:27:01 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (0.1ms)
+Completed 200 OK in 112ms (Views: 111.4ms)
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:27:01 +0800
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:27:01 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (19.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (13.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (29.4ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:27:02 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (23.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (17.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (33.8ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:27:02 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:27:02 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:27:32 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (0.1ms)
+Completed 200 OK in 92ms (Views: 91.2ms)
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:27:32 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (21.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (13.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (28.6ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:27:32 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (21.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (14.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (32.4ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:27:32 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:28:01 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (0.1ms)
+Completed 200 OK in 142ms (Views: 141.5ms)
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:28:01 +0800
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:28:01 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (21.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (16.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (39.6ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:28:01 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (20.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (13.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (31.5ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:28:02 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:28:02 +0800
+
+
+Started GET "/" for ::1 at 2015-07-06 20:28:26 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_navbar.html.haml (0.1ms)
+Completed 200 OK in 221ms (Views: 220.7ms)
+
+
+Started GET "/assets/base.self.css?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/uikit.self.css?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/project.min.self.css?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/project.self.css?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/base.min.self.css?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/base.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/base.min.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/project.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/project.min.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/_.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/bootstrap.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/content.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/datepicker.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/dropdown.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/esc.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/footer.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/form-adv.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/get-target.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/header.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/menu.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/modal.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/tab.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/tile.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/toast.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/wave.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/webfont.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/src/winresize.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/images/samples/landscape.jpg" for ::1 at 2015-07-06 20:28:27 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/samples/landscape.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (21.9ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (16.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (35.2ms)
+
+
+Started GET "/images/users/avatar-001.jpg" for ::1 at 2015-07-06 20:28:27 +0800
+
+ActionController::RoutingError (No route matches [GET] "/images/users/avatar-001.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/emil/.rbenv/versions/2.1.4/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (24.5ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (14.0ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/emil/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (28.9ms)
+
+
+Started GET "/assets/fonts/MaterialIcons-Regular.woff2?v=2.0.0" for ::1 at 2015-07-06 20:28:27 +0800
+
+
+Started GET "/assets/fontawesome-webfont.otf" for ::1 at 2015-07-06 20:28:27 +0800

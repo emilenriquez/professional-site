@@ -1,32 +1,12 @@
-%nav.uk-navbar
-  %a.uk-navbar-brand
-    Emil Enriquez
-  %ul.uk-navbar-nav
-    %li.uk-parent.uk-active{"data-uk-dropdown" => ""}
-      %a{:href => ""}
-        %i.uk-icon-home
-        Games
-      .uk-dropdown.uk-dropdown-navbar
-        %ul.uk-nav.uk-nav-navbar
-          %li
-            %a{:href => "/games"} View Games
-          %li
-            %a{:href => "/games/new"} Create New Game
-          %li.uk-nav-header Header
-          %li
-            %a{:href => "#"} Item
-          %li
-            %a{:href => "#"} Another item
-          %li.uk-nav-divider
-          %li
-            %a{:href => "#"} Separated item
-  .uk-navbar-content    
-    = link_to 'Games', '/games', :class => "uk-button uk-button-primary" 
-
-  .uk-navbar-content.uk-navbar-flip.uk-hidden-small
-    .uk-button-group
-      %a.uk-button.uk-button-primary
-        =t(:register)
-      %a.uk-button.uk-button-primary 
-        =t(:login)
-    
+%header.header
+  %ul.nav.nav-list.pull-left
+    %li
+      %a{"data-toggle" => "menu", :href => "#menu"}
+        %span.icon.icon-lg menu
+  %a.header-logo{:href => "index.html"} Emil Enriquez
+  %ul.nav.nav-list.pull-right
+    %li
+      %a{"data-toggle" => "menu", :href => "#profile"}
+        %span.access-hide John Smith
+        %span.avatar
+          %img{:alt => "alt text for John Smith avatar", :src => "http://gamerzwiki.com/assets/gw-default-avatar-bcac08b4ca81315c5c6f51d726ce78da.png"}/
