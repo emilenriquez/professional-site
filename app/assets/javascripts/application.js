@@ -15,9 +15,40 @@
 //= require materialize-sprockets
 //= require_tree .
 
+function showTransitions(){
+	time = 500;
+	$('#threesome .section .row .col.s12.m4.transition').each(function(){
+		var a = $(this);
+		setTimeout( function(){
+			a.fadeIn("slow");
+		}
+		, time);		
+		time += 500;		
+	})	
+}
+
+window.onload =function(){
+	var threesomeFlag = false;
+	var trans = null;	
+	//$( "#threesome" ).fadeIn("slow");
+	//$('#threesome .section .row .col.s12.m4.transition').hide();
+	showTransitions();
+}
+
+
+
 $(document).ready(function(){
-	 	
+	
+
   $('.parallax').parallax();
   console.log('parallax initialized');
   
+  var scrollFireOptions = [
+    {selector: '#tsdfhreesome', offset: 0, callback:  'showTransitions();'},
+    {selector: '#staggered-test', offset: 205, callback: 'Materialize.toast("Please continue scrolling!", 1500 )' },
+    {selector: '#staggered-test', offset: 400, callback:  'Materialize.toast("Please continue scrolling!", 1500 )'},
+    {selector: '#image-test', offset: 500, callback: 'Materialize.fadeInImage("#image-test")' }
+  ];
+  Materialize.scrollFire(scrollFireOptions);
+      
 })
