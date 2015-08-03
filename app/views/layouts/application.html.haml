@@ -3,231 +3,28 @@
   %head
     %title
       Emil Enriquez
-    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => false
-    = javascript_include_tag 'application', 'data-turbolinks-track' => false    
+    
+    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true    
     = csrf_meta_tags
     %meta{:charset => "UTF-8"}
     %meta{:content => "IE=edge", "http-equiv" => "X-UA-Compatible"}
     %meta{:content => "initial-scale=1.0, width=device-width", :name => "viewport"}/
+    %link{:href => "https://fonts.googleapis.com/icon?family=Material+Icons", :rel => "stylesheet"}/
+
     / favicon
     / ...
     / ie
     /[if lt IE 9]
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  -#    
-    %body
-    -#= render 'layouts/navbar'
-    -#nav
-    -#  
-      .uk-container.uk-container-center
-        %p#notice= flash[:notice]
-        %p#alert= flash[:alert]
-        = yield
-  %body.avoid-fout
-    .avoid-fout-indicator.avoid-fout-indicator-fixed
-      .progress-circular.progress-circular-alt.progress-circular-center
-        .progress-circular-wrapper
-          .progress-circular-inner
-            .progress-circular-left
-              .progress-circular-spinner
-            .progress-circular-gap
-            .progress-circular-right
-              .progress-circular-spinner
-    = render 'layouts/navbar'
-    %nav#menu.menu
-      .menu-scroll
-        .menu-wrap
-          .menu-content
-            %a.menu-logo{:href => "index.html"} Material
-            %ul.nav
-              %li
-                %a{:href => "ui-card.html"} Cards
-              %li
-                %a{:href => "ui-collapse.html"} Collapsible Regions
-              %li
-                %a{:href => "ui-dropdown.html"} Dropdowns
-              %li
-                %a{:href => "ui-modal.html"} Modals &amp; Toasts
-              %li
-                %a{:href => "ui-nav.html"} Navs
-              %li
-                %a{:href => "ui-progress.html"} Progress Bars
-              %li
-                %a{:href => "ui-tab.html"} Tabs
-              %li
-                %a{:href => "ui-tile.html"} Tiles
-            %hr
-              %ul.nav
-                %li
-                  %a{:href => "ui-button.html"} Buttons
-                %li
-                  %a{:href => "ui-form.html"} Form Elements
-                  %span.menu-collapse-toggle.collapsed{"data-target" => "#form-elements", "data-toggle" => "collapse"}
-                    %i.icon.menu-collapse-toggle-close close
-                    %i.icon.menu-collapse-toggle-default add
-                  %ul#form-elements.menu-collapse.collapse
-                    %li
-                      %a{:href => "ui-form-adv.html"}
-                        Form Elements
-                        %small (materialised)
-                %li
-                  %a{:href => "ui-icon.html"} Icons
-                %li
-                  %a{:href => "ui-table.html"} Tables
-              %hr
-                %ul.nav
-                  %li
-                    %a{:href => "page-affix.html"}
-                      Full-Width Page
-                      %small (with fixed LHC/RHC)
-                  %li
-                    %a{:href => "page-palette.html"} Page Palettes
-                    %span.menu-collapse-toggle.collapsed{"data-target" => "#page-palettes", "data-toggle" => "collapse"}
-                      %i.icon.menu-collapse-toggle-close close
-                      %i.icon.menu-collapse-toggle-default add
-                    %ul#page-palettes.menu-collapse.collapse
-                      %li
-                        %a{:href => "page-palette-blue.html"} Blue Palette
-                      %li
-                        %a{:href => "page-palette-green.html"} Green Palette
-                      %li
-                        %a{:href => "page-palette-purple.html"} Purple Palette
-                      %li
-                        %a{:href => "page-palette-red.html"} Red Palette
-                      %li
-                        %a{:href => "page-palette-yellow.html"} Yellow Palette
-    %nav#profile.menu.menu-right
-      .menu-scroll
-        .menu-wrap
-          .menu-top
-            .menu-top-img
-              %img{:alt => "John Smith", :src => "https://pixabay.com/static/uploads/photo/2015/07/05/15/50/elbe-tunnel-832462__180.jpg"}
-            .menu-top-info
-              %a.menu-top-user{:href => "javascript:void(0)"}
-                %span.avatar.pull-left>
-                  %img{:alt => "alt text for John Smith avatar", :src => "https://pixabay.com/static/uploads/photo/2015/07/05/17/00/flower-832557__180.jpg"}/
-                John Smith
-            .menu-top-info-sub
-              %small Some additional information about John Smith
-          .menu-content
-            %ul.nav
-              %li
-                %a{:href => "javascript:void(0)"}
-                  %span.icon.icon-lg> account_box
-                  Profile Settings
-              %li
-                %a{:href => "javascript:void(0)"}
-                  %span.icon.icon-lg> add_to_photos
-                  Upload Photo
-              %li
-                %a{:href => "page-login.html"}
-                  %span.icon.icon-lg> exit_to_app
-                  Logout
-    .content
-      .content-heading
-        .container
-          .row
-            .col-lg-6.col-lg-push-3.col-sm-10.col-sm-push-1
-              %h1.heading Material
-      .container
-        .row
-          .col-lg-6.col-lg-push-3.col-sm-10.col-sm-push-1
-            %section.content-inner
-              %p Material is an HTML5 UI design based on Google Material.
-              %blockquote
-                %p A visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science. This is material design.
-                %p
-                  %a.text-break{:href => "http://www.google.com/design/spec/material-design/introduction.html"} http://www.google.com/design/spec/material-design/introduction.html
-              %p
-                Have a play with a
-                = succeed "," do
-                  %a{:href => "http://daemonite.github.io/material/"} working prototype of Material
-                let us know what you think at the
-                %a{:href => "http://labs.daemon.com.au"} Daemon Labs
-                forum.
-              %h2.content-sub-heading Components
-              .tile-wrap.tile-wrap-animation
-                %a.tile{:href => "ui-card.html"}
-                  .tile-inner
-                    %span Cards
-                %a.tile{:href => "ui-collapse.html"}
-                  .tile-inner
-                    %span Collapsible Regions
-                %a.tile{:href => "ui-dropdown.html"}
-                  .tile-inner
-                    %span Dropdowns
-                %a.tile{:href => "ui-modal.html"}
-                  .tile-inner
-                    %span Modal &amp; Toasts
-                %a.tile{:href => "ui-nav.html"}
-                  .tile-inner
-                    %span Navs
-                %a.tile{:href => "ui-progress.html"}
-                  .tile-inner
-                    %span Progress Bars
-                %a.tile{:href => "ui-tab.html"}
-                  .tile-inner
-                    %span Tabs
-                %a.tile{:href => "ui-tile.html"}
-                  .tile-inner
-                    %span Tiles
-              %h2.content-sub-heading Elements
-              .tile-wrap.tile-wrap-animation
-                %a.tile{:href => "ui-button.html"}
-                  .tile-inner
-                    %span Button
-                %a.tile{:href => "ui-form.html"}
-                  .tile-inner
-                    %span
-                      Form Elements
-                      %small (basic)
-                %a.tile{:href => "ui-form-adv.html"}
-                  .tile-inner
-                    %span
-                      Form Elements
-                      %small (materialised)
-                %a.tile{:href => "ui-icon.html"}
-                  .tile-inner
-                    %span Icons
-                %a.tile{:href => "ui-table.html"}
-                  .tile-inner
-                    %span Tables
-              %h2.content-sub-heading Sample Pages
-              .tile-wrap.tile-wrap-animation
-                %a.tile{:href => "page-404.html"}
-                  .tile-inner
-                    %span 404 Error Page
-                %a.tile{:href => "page-500.html"}
-                  .tile-inner
-                    %span 500 Error Page
-                %a.tile{:href => "page-affix.html"}
-                  .tile-inner
-                    %span
-                      Full-Width Page
-                      %small (with fixed LHC/RHC)
-                %a.tile{:href => "page-login.html"}
-                  .tile-inner
-                    %span Login Page
-                %a.tile{:href => "page-palette.html"}
-                  .tile-inner
-                    %span Page Palettes
-    %footer.footer
-      .container
-        %p Material
-    .fbtn-container
-      .fbtn-inner
-        %a.fbtn.fbtn-red.fbtn-lg{"data-toggle" => "dropdown"}
-          %span.fbtn-text Links
-          %span.fbtn-ori.icon add
-          %span.fbtn-sub.icon close
-        .fbtn-dropdown
-          %a.fbtn{:href => "https://github.com/Daemonite/material", :target => "_blank"}
-            %span.fbtn-text Fork me on GitHub
-            %span.fa.fa-github
-          %a.fbtn.fbtn-blue{:href => "https://twitter.com/daemonites", :target => "_blank"}
-            %span.fbtn-text Follow Daemon on Twitter
-            %span.fa.fa-twitter
-          %a.fbtn.fbtn-alt{:href => "http://www.daemon.com.au/", :target => "_blank"}
-            %span.fbtn-text Visit Daemon Website
-            %span.icon link
+    
+  %body
+  = render 'layouts/navbar'
+  -#nav
+  
+  
+  %p#notice= flash[:notice]
+  %p#alert= flash[:alert]
+  = yield
+  

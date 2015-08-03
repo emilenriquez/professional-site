@@ -12,5 +12,12 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require base
+//= require materialize-sprockets
 //= require_tree .
+
+$(document).ready(function(){
+	 	
+  $('.parallax').parallax();
+  console.log('parallax initialized');
+  
+})

@@ -1,12 +1,16 @@
-%header.header
-  %ul.nav.nav-list.pull-left
-    %li
-      %a{"data-toggle" => "menu", :href => "#menu"}
-        %span.icon.icon-lg menu
-  %a.header-logo{:href => "/"} Emil Enriquez
-  %ul.nav.nav-list.pull-right
-    %li
-      %a{"data-toggle" => "menu", :href => "#profile"}
-        %span.access-hide John Smith
-        %span.avatar
-          %img{:alt => "alt text for John Smith avatar", :src => "https://pixabay.com/static/uploads/photo/2015/07/05/17/00/flower-832557__180.jpg"}/
+%nav{:role => "navigation"}
+  .nav-wrapper.container
+    %a#logo-container.brand-logo{:href => "#"} 
+      EmilEnriquez
+      %sub
+        %small
+          %em
+            Full Stack Developer
+    %ul.right.hide-on-med-and-down
+      %li
+        %a{:href => "#"} Navbar Link
+    %ul#nav-mobile.side-nav
+      %li
+        %a{:href => "#"} Navbar Link
+    %a.button-collapse{"data-activates" => "nav-mobile", :href => "#"}
+      %i.material-icons menu

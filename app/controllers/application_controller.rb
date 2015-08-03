@@ -6,4 +6,8 @@ class ApplicationController < ActionController::Base
   def team_name
   	'incodenito' 
   end
+
+  def tag_line
+  	'Turning caffeine into awesome web and mobile apps'
+  end
 end

@@ -141,12 +141,12 @@ Rails.application.config.sorcery.configure do |config|
 
 
   # --- user config ---
-  config.user_config do |user|
+  #config.user_config do |user|
     # -- core --
     # specify username attributes, for example: [:username, :email].
     # Default: `[:email]`
     #
-    user.username_attribute_names = [:email];
+    #user.username_attribute_names = [:email];
 
 
     # change *virtual* password attribute, the one which is used until an encrypted one is generated.
@@ -429,9 +429,9 @@ Rails.application.config.sorcery.configure do |config|
     # Default: `:uid`
     #
     # user.provider_uid_attribute_name =
-  end
+  #end
 
   # This line must come after the 'user config' block.
   # Define which model authenticates with sorcery.
-  config.user_class = "User"
+  #config.user_class = "User"
 end

@@ -7,3 +7,4 @@ D, [2015-07-06T20:17:27.907918 #16205] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMA
 D, [2015-07-07T00:10:37.868907 #18954] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 2.6710ms
 D, [2015-07-07T01:01:22.419837 #661] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 2.5610ms
 D, [2015-07-07T01:53:13.259254 #749] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 2.3500ms
+D, [2015-07-07T02:35:16.304477 #868] DEBUG -- :   MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 9.8710ms

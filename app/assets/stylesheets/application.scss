@@ -12,5 +12,10 @@
  *
  *= require_tree .
  *= require_self
- *= require uikit 
+ 
  */
+@import "materialize/components/color";
+$primary-color: color("blue", "lighten-2") !default;
+@import "materialize";
+@import "project";
+
