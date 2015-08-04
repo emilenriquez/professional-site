@@ -20,8 +20,11 @@ class ApplicationController < ActionController::Base
     set_meta_tags :og => {:title    => 'emilenriquez',
                           :type     => 'website',
                           :url      => 'https://emilenriquez.com',
-                          :site      => 'EmilEnriquez',                          
-      }
+                          :site      => 'EmilEnriquez',      
+                          :description => tag_line,                    
+    }
+   
+   	set_meta_tags :og => {:image => asset_path 'profile-picture.jpg'} if @game.pic_icon_url.present?
 
   end
 end
