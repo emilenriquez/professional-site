@@ -19,7 +19,7 @@
   .parallax
     = image_tag('wallpaper_material_big.jpg',:width => '1000')
     
-.container{:style => 'height:500px;'}
+.container{:style => 'min-height:500px;'}
   #threesome
     .section
       / Icon Section
@@ -41,10 +41,36 @@
             %h2.center.brown-text
               %i.material-icons settings
             %h5.center Process
-            %p.light Process - a very important thing when it comes to system architecture and development. The good thing is this is where I excel. 
+            %p.light Process - a very important thing when it comes to system architecture and development. The good thing is this is where I excel. Usage of high end technologies to innovate, hasten, and increase efficiency of product development. 
+            %ul
+              %li
+                = link_to '- Technologies Used', '/skills'
+              %li
+                = link_to '- Read about emil\'s "Dev Automation Process Implemented" ', '/blog/development-proces'
         .col.s12.m3.transition{:style => "display:none;"}
           .icon-block.hoverable
             %h2.center.brown-text
               %i.material-icons trending_up
             %h5.center Management
-            %p.light We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.
+            %p.light You have heard about emil's technical skills and knowledge. But emil is not limited to that, he is also able to manage Junior to Mid, Mobile and web developers as well as system administrators. Reporting, Transparency and being able to escalate and connect top management and other stakeholders is one of the crucial factors for management.
+
+.parallax-container
+  .section.no-pad-bot
+    .container      
+      %br
+        %br
+          
+          %h1.header.center            
+            %h1.header.center.teal-text.text-lighten-2{:style => 'text-shadow: 3px 3px 7px #444;'}Technical Know How's  
+            
+          .row.center
+            %h5.header.col.s12.light{:style => 'text-shadow: 2px 2px 5px #333;'}
+              "
+              = 'Utitilizing the best of IT to provide the best services'
+              "
+          .row.center
+            %a#download-button.btn-large.waves-effect.waves-light.teal.lighten-1{:href => "http://gamerzwiki.com"} Read More
+          %br
+            %br
+  .parallax
+    = image_tag('wallpaper_material_big.jpg',:width => '1000')
