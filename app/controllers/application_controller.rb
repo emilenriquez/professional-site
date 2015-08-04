@@ -21,10 +21,10 @@ class ApplicationController < ActionController::Base
                           :type     => 'website',
                           :url      => 'https://emilenriquez.com',
                           :site      => 'EmilEnriquez',      
-                          :description => tag_line,                    
+                          :description => tag_line                  
     }
-   
-   	set_meta_tags :og => {:image => asset_path 'profile-picture.jpg'} if @game.pic_icon_url.present?
+    @img_url = ActionController::Base.helpers.asset_path("profile-picture.jpg")
+   	set_meta_tags :og => {:image => @img_url}
 
   end
 end
