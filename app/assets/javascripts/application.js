@@ -17,7 +17,7 @@
 
 function showTransitions(){
 	time = 500;
-	$('#threesome .section .row .col.s12.m4.transition').each(function(){
+	$('#threesome .section .row .col.s12.m3.transition').each(function(){
 		var a = $(this);
 		setTimeout( function(){
 			a.fadeIn("slow");
