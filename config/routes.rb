@@ -6,6 +6,14 @@ Rails.application.routes.draw do
   get 'games/edit/:id' => 'games#edit'
   post 'games/game_create' => 'games#game_create'
   patch 'games/game_edit' => 'games#game_edit'
+
+  ##blog
+  get 'blog' => 'blog#index'  
+
+  namespace :admin do
+  get 'games' => 'games#index'  
+    
+  end
   
 
   # The priority is based upon order of creation: first created -> highest priority.

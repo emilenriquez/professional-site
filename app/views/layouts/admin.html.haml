@@ -2,7 +2,7 @@
 %html
   %head
     %title
-      Emil Enriquez
+      Admin | Emil Enriquez
     
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
     = javascript_include_tag 'application', 'data-turbolinks-track' => true    
@@ -11,7 +11,6 @@
     %meta{:content => "IE=edge", "http-equiv" => "X-UA-Compatible"}
     %meta{:content => "initial-scale=1.0, width=device-width", :name => "viewport"}/
     %link{:href => "https://fonts.googleapis.com/icon?family=Material+Icons", :rel => "stylesheet"}/
-    %link{:href => "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css", :rel => "stylesheet"}/
     = display_meta_tags ({:site =>  'emilenriquez' , :reverse => true })
     = csrf_meta_tags
     / favicon
@@ -22,10 +21,11 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     
   %body
-    = render 'layouts/navbar'
+  = render 'layouts/navbar'
+  -#nav
   
-    %p#notice= flash[:notice]
-    %p#alert= flash[:alert]
-    = yield
-    = render 'layouts/footer'
+  
+  %p#notice= flash[:notice]
+  %p#alert= flash[:alert]
+  = yield
   
