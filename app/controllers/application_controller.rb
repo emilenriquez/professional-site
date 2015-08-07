@@ -14,7 +14,7 @@ class ApplicationController < ActionController::Base
   def set_default_meta_tags
     set_meta_tags :canonical   => 'http://emilenriquez.com'
     set_meta_tags :description => 'Emil Enriquez Developer Profile, Blog, Tutorial and Q&A'
-    set_meta_tags :keywords => 'full stack developers, user experience design, user experience mobile,design ui ux, mobile app tutorial, ux and ui design, dev app, ui ux design tutorials, ui experience, emil enriquez,mobile developers, web & mobile developer,user experience app, mobile apps design, mobile app design,portfolio,emilenriquez, Emil Enriquez, Emil Enriquez Developer, Web and Android Developer, Android, Web, Ruby on Rails, emilenriquez tutorial, Ruby Tutorial'
+    set_meta_tags :keywords => 'app my times, full stack developers, user experience design, user experience mobile,design ui ux, mobile app tutorial, ux and ui design, dev app, ui ux design tutorials, ui experience, emil enriquez,mobile developers, web & mobile developer,user experience app, mobile apps design, mobile app design,portfolio,emilenriquez, Emil Enriquez, Emil Enriquez Developer, Web and Android Developer, Android, Web, Ruby on Rails, emilenriquez tutorial, Ruby Tutorial'
     set_meta_tags :site_name => 'emilenriquez'
     
     set_meta_tags :og => {:title    => 'emilenriquez',
